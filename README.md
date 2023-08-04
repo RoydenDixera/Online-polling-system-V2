@@ -19,8 +19,6 @@ requirements. By student user perspective only a code has to be entered.
 <pre>Open terminal and type</pre>
 <code>git clone https://github.com/orvil1026/Online-polling-system.git </code><br><br>
 
-<h4>or simply download using the url below</h4>
-<code> https://github.com/orvil1026/Online-polling-system/archive/master.zip </code><br>
 <h2> Install Requirements </h2>
 <code>pip install -r requirements.txt</code>
 
@@ -103,9 +101,9 @@ requirements. By student user perspective only a code has to be entered.
 <h2>Acknowledgment</h2>
 
 - [Royden Dixera](https://in.linkedin.com/in/royden-dixera-07a369166)
-- [Shawn Dsilva]
-- [Brice Pimenta]
-- [Bhushan patil]
+- Shawn Dsilva
+- Brice Pimenta
+- Bhushan patil
 
   
 
